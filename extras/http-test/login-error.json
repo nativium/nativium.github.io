@@ -1,5 +1,14 @@
 {
     "success": false,
     "message": "login-error",
-    "data": null
+    "data": {
+        "errors": [
+            [
+                "username",
+                [
+                    "Username is invalid"
+                ]
+            ]
+        ]
+    }
 }
